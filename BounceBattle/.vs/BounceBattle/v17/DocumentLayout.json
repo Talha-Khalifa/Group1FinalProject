@@ -1,0 +1,105 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Sem 3 courses\\Sec5- Game Programming with DSA\\Group1FinalProject\\BounceBattle\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6C83094F-0B67-4AB7-8C71-D55E02C30AA9}|BounceBattle.csproj|c:\\sem 3 courses\\sec5- game programming with dsa\\group1finalproject\\bouncebattle\\game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C83094F-0B67-4AB7-8C71-D55E02C30AA9}|BounceBattle.csproj|solutionrelative:game1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C83094F-0B67-4AB7-8C71-D55E02C30AA9}|BounceBattle.csproj|c:\\sem 3 courses\\sec5- game programming with dsa\\group1finalproject\\bouncebattle\\paddle_ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C83094F-0B67-4AB7-8C71-D55E02C30AA9}|BounceBattle.csproj|solutionrelative:paddle_ai.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C83094F-0B67-4AB7-8C71-D55E02C30AA9}|BounceBattle.csproj|c:\\sem 3 courses\\sec5- game programming with dsa\\group1finalproject\\bouncebattle\\ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C83094F-0B67-4AB7-8C71-D55E02C30AA9}|BounceBattle.csproj|solutionrelative:ball.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C83094F-0B67-4AB7-8C71-D55E02C30AA9}|BounceBattle.csproj|c:\\sem 3 courses\\sec5- game programming with dsa\\group1finalproject\\bouncebattle\\sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C83094F-0B67-4AB7-8C71-D55E02C30AA9}|BounceBattle.csproj|solutionrelative:sprite.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6C83094F-0B67-4AB7-8C71-D55E02C30AA9}|BounceBattle.csproj|c:\\sem 3 courses\\sec5- game programming with dsa\\group1finalproject\\bouncebattle\\paddle_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6C83094F-0B67-4AB7-8C71-D55E02C30AA9}|BounceBattle.csproj|solutionrelative:paddle_player.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Paddle_AI.cs",
+              "DocumentMoniker": "C:\\Sem 3 courses\\Sec5- Game Programming with DSA\\Group1FinalProject\\BounceBattle\\Paddle_AI.cs",
+              "RelativeDocumentMoniker": "Paddle_AI.cs",
+              "ToolTip": "C:\\Sem 3 courses\\Sec5- Game Programming with DSA\\Group1FinalProject\\BounceBattle\\Paddle_AI.cs",
+              "RelativeToolTip": "Paddle_AI.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:14:42.615Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Game1.cs",
+              "DocumentMoniker": "C:\\Sem 3 courses\\Sec5- Game Programming with DSA\\Group1FinalProject\\BounceBattle\\Game1.cs",
+              "RelativeDocumentMoniker": "Game1.cs",
+              "ToolTip": "C:\\Sem 3 courses\\Sec5- Game Programming with DSA\\Group1FinalProject\\BounceBattle\\Game1.cs",
+              "RelativeToolTip": "Game1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T20:59:21.831Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Ball.cs",
+              "DocumentMoniker": "C:\\Sem 3 courses\\Sec5- Game Programming with DSA\\Group1FinalProject\\BounceBattle\\Ball.cs",
+              "RelativeDocumentMoniker": "Ball.cs",
+              "ToolTip": "C:\\Sem 3 courses\\Sec5- Game Programming with DSA\\Group1FinalProject\\BounceBattle\\Ball.cs",
+              "RelativeToolTip": "Ball.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:02:37.639Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Paddle_Player.cs",
+              "DocumentMoniker": "C:\\Sem 3 courses\\Sec5- Game Programming with DSA\\Group1FinalProject\\BounceBattle\\Paddle_Player.cs",
+              "RelativeDocumentMoniker": "Paddle_Player.cs",
+              "ToolTip": "C:\\Sem 3 courses\\Sec5- Game Programming with DSA\\Group1FinalProject\\BounceBattle\\Paddle_Player.cs",
+              "RelativeToolTip": "Paddle_Player.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:01:47.429Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Sprite.cs",
+              "DocumentMoniker": "C:\\Sem 3 courses\\Sec5- Game Programming with DSA\\Group1FinalProject\\BounceBattle\\Sprite.cs",
+              "RelativeDocumentMoniker": "Sprite.cs",
+              "ToolTip": "C:\\Sem 3 courses\\Sec5- Game Programming with DSA\\Group1FinalProject\\BounceBattle\\Sprite.cs",
+              "RelativeToolTip": "Sprite.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-12-02T21:02:20.956Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

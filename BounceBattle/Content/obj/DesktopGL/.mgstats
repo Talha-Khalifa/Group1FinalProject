@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"C:/Sem 3 courses/Sec5- Game Programming with DSA/Group1FinalProject/BounceBattle/Content/ball.png","C:/Sem 3 courses/Sec5- Game Programming with DSA/Group1FinalProject/BounceBattle/Content/bin/DesktopGL/ball.xnb","TextureProcessor","Texture2DContent",3560,16469,0.185732
+"C:/Sem 3 courses/Sec5- Game Programming with DSA/Group1FinalProject/BounceBattle/Content/paddle.png","C:/Sem 3 courses/Sec5- Game Programming with DSA/Group1FinalProject/BounceBattle/Content/bin/DesktopGL/paddle.xnb","TextureProcessor","Texture2DContent",5191,65621,0.0062253
+"C:/Sem 3 courses/Sec5- Game Programming with DSA/Group1FinalProject/BounceBattle/Content/paddleAI.png","C:/Sem 3 courses/Sec5- Game Programming with DSA/Group1FinalProject/BounceBattle/Content/bin/DesktopGL/paddleAI.xnb","TextureProcessor","Texture2DContent",3848,65621,0.0121957

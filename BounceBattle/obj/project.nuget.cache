@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "5EqJRm5H96U=",
+  "success": true,
+  "projectFilePath": "C:\\Sem 3 courses\\Sec5- Game Programming with DSA\\Group1FinalProject\\BounceBattle\\BounceBattle.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Admin\\.nuget\\packages\\monogame.content.builder.task\\3.8.1.303\\monogame.content.builder.task.3.8.1.303.nupkg.sha512",
+    "C:\\Users\\Admin\\.nuget\\packages\\monogame.framework.desktopgl\\3.8.1.303\\monogame.framework.desktopgl.3.8.1.303.nupkg.sha512"
+  ],
+  "logs": []
+}
