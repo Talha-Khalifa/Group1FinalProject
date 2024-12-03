@@ -17,7 +17,10 @@ namespace BounceBattle
         Paddle_AI paddleAI;
         Texture2D paddleAI_Texture;
         Random rand;
+        SpriteFont scorePlayer, scoreAI;
         int offSetPaddle = 5;
+        int offsetFont = 50;
+        
 
         public Game1()
         {
@@ -48,6 +51,9 @@ namespace BounceBattle
 
             paddleAI_Texture = Content.Load<Texture2D>("paddleAI");
             paddleAI = new Paddle_AI(paddleAI_Texture, new Vector2(screen.Width - paddleAI_Texture.Width - offSetPaddle, screen.Height / 2 - paddleAI_Texture.Height / 2), Vector2.Zero, 5f, screen);
+
+            scorePlayer = Content.Load<SpriteFont>("ScoreFont");
+            scoreAI = Content.Load<SpriteFont>("ScoreFont");
 
             Restart();
 
@@ -92,7 +98,7 @@ namespace BounceBattle
 
             if (ball.restart)
                 Restart();
-            Console.WriteLine();
+            Console.WriteLine(ball.restart);
 
             base.Update(gameTime);
         }
@@ -101,13 +107,27 @@ namespace BounceBattle
         {
             GraphicsDevice.Clear(Color.DarkOliveGreen);
 
-            // TODO: Add your drawing code here
+            // Begin drawing
             _spriteBatch.Begin();
+
+            // Draw player score
+            _spriteBatch.DrawString(scorePlayer, paddlePlayer.Score.ToString(),
+                new Vector2(screen.Width / 2 - 2 * offsetFont, offsetFont), Color.White);
+
+            // Draw AI score
+            _spriteBatch.DrawString(scoreAI, paddleAI.Score.ToString(),
+                new Vector2(screen.Width / 2 + offsetFont, offsetFont), Color.White);
+
+            // Draw paddles and ball
             paddlePlayer.Draw(_spriteBatch);
             paddleAI.Draw(_spriteBatch);
             ball.Draw(_spriteBatch);
+
+            // End drawing
             _spriteBatch.End();
+
             base.Draw(gameTime);
         }
+
     }
 }

@@ -238,20 +238,19 @@
     ]
   },
   "packageFolders": {
-    "C:\\Users\\rikhi\\.nuget\\packages\\": {}
+    "C:\\Users\\malik\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\Group1FinalProject\\BounceBattle\\BounceBattle\\BounceBattle.csproj",
+      "projectUniqueName": "C:\\Users\\malik\\Group1FinalProject\\BounceBattle\\BounceBattle\\BounceBattle.csproj",
       "projectName": "BounceBattle",
-      "projectPath": "D:\\Group1FinalProject\\BounceBattle\\BounceBattle\\BounceBattle.csproj",
-      "packagesPath": "C:\\Users\\rikhi\\.nuget\\packages\\",
-      "outputPath": "D:\\Group1FinalProject\\BounceBattle\\BounceBattle\\obj\\",
+      "projectPath": "C:\\Users\\malik\\Group1FinalProject\\BounceBattle\\BounceBattle\\BounceBattle.csproj",
+      "packagesPath": "C:\\Users\\malik\\.nuget\\packages\\",
+      "outputPath": "C:\\Users\\malik\\Group1FinalProject\\BounceBattle\\BounceBattle\\obj\\",
       "projectStyle": "PackageReference",
-      "UsingMicrosoftNETSdk": false,
       "configFilePaths": [
-        "C:\\Users\\rikhi\\AppData\\Roaming\\NuGet\\NuGet.Config",
+        "C:\\Users\\malik\\AppData\\Roaming\\NuGet\\NuGet.Config",
         "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
       ],
       "originalTargetFrameworks": [
@@ -259,7 +258,6 @@
       ],
       "sources": {
         "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -272,11 +270,6 @@
         "warnAsError": [
           "NU1605"
         ]
-      },
-      "restoreAuditProperties": {
-        "enableAudit": "true",
-        "auditLevel": "low",
-        "auditMode": "direct"
       }
     },
     "frameworks": {
@@ -308,7 +301,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.400/PortableRuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\8.0.101/PortableRuntimeIdentifierGraph.json"
       }
     }
   }
