@@ -1,0 +1,4 @@
+Source File,Dest File,Processor Type,Content Type,Source File Size,Dest File Size,Build Seconds
+"D:/Group1FinalProject/BounceBattle/BounceBattle/Content/ball.png","D:/Group1FinalProject/BounceBattle/BounceBattle/Content/bin/DesktopGL/Content/ball.xnb","TextureProcessor","Texture2DContent",3560,16469,0.1008964
+"D:/Group1FinalProject/BounceBattle/BounceBattle/Content/paddle.png","D:/Group1FinalProject/BounceBattle/BounceBattle/Content/bin/DesktopGL/Content/paddle.xnb","TextureProcessor","Texture2DContent",5191,65621,0.0099837
+"D:/Group1FinalProject/BounceBattle/BounceBattle/Content/paddleAI.png","D:/Group1FinalProject/BounceBattle/BounceBattle/Content/bin/DesktopGL/Content/paddleAI.xnb","TextureProcessor","Texture2DContent",3848,65621,0.0039141
